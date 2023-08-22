@@ -1,4 +1,4 @@
-# Prueba técnica para Juniors y Trainees de React en Liva Coding
+# Prueba técnica para Juniors y Trainees de React en Live Coding
 
 APIs: 
 - Fact Random: https://catfact.ninja/fact
